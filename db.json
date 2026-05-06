@@ -5,5 +5,5 @@
     { "id": "3", "text": "Kalonzo Musyoka", "votes": 0 },
     { "id": "4", "text": "David Maraga", "votes": 0 }
   ],
-  "voter": { "id": 1, "hasVoted": false }
+  "userVotes": []
 }
